@@ -1,0 +1,29 @@
+body {
+  font-family: "roboto";
+  background-color: #663dc4;
+  margin: 0;
+  padding: 0;
+}
+
+.Topper {
+  background-color: #6a00e5;
+  padding: 0px;
+}
+
+.Topper img{
+  width: 50%;
+  height: 50%;
+  max-width: 450px;
+  max-height: 450px;
+}
+
+.Content {
+  text-align: center;
+  color: #240076;
+  font-size: 20px;
+}
+
+.Content a {
+  color: #240076;
+  text-decoration: none;
+}
